@@ -15,7 +15,7 @@ This project aims to predict the Manufacturer's Suggested Retail Price (MSRP) of
 
 ## Dataset
 
-The dataset used in this project is `Car_price.csv`. It contains various features related to cars, such as:
+The dataset used in this project is taken from Kaggle and is called Car features and MSRP. It contains various features related to cars, such as:
 
 - Make
 - Model
